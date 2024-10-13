@@ -1,7 +1,7 @@
 ## *UpdateHealth*
 ## PURPOSE:
 <p>To empower individuals to take charge of their well-being. This user-friendly interface provides easy access to vital health addressing laboratories and booking appointments online. </p>
-<p>*UpdateHealth* is your go-to-source for navigating the complexities of waiting for a long to book an appointment.</p>
+<p> "UpdateHealth" is your go-to-source for navigating the complexities of waiting for a long to book an appointment.</p>
 <hr/>
 LANGUAGES USED:
 <ul>
